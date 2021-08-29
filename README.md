@@ -15,3 +15,8 @@
 #### Control Flow - if-else statements, BMI Calculator 2.0, Logical Operators.
 #### Project : Treasure Island.
 
+## Day 4
+
+#### Random Module, Lists, split function.
+#### Project : Rock-Paper-Scissors Game.
+
