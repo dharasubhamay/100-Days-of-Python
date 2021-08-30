@@ -20,3 +20,8 @@
 #### Random Module, Lists, split function.
 #### Project : Rock-Paper-Scissors Game.
 
+## Day 5
+
+#### Loop, range function, FizzBuzz problem
+#### Project : Password Generator.
+
