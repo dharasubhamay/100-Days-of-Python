@@ -22,11 +22,17 @@
 
 ## Day 5
 
-#### Loop, range function, FizzBuzz problem
+#### Loop, range function, FizzBuzz problem.
 #### Project : Password Generator.
 
 ## Day 6
 
-#### Functions, While loop
+#### Functions, While loop.
 #### Project : Reeborg's World Maze Challenge.
+
+## Day 7
+
+#### Revision of loops, control flow, list, string.
+#### Project : Hangman Game.
+
 
