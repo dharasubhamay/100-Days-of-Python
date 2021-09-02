@@ -35,7 +35,7 @@
 #### Revision of loops, control flow, list, string.
 #### Project : ` Hangman Game `.
 
-## Day 7
+## Day 8
 
 #### Revision of Functions, loops, control flow, list, string.
 #### Project : ` Caesar Cipher `.
