@@ -3,7 +3,7 @@
 ## Day 1
 
 #### Basic of Python, ex - print(), input() function, string, variable etc.
-#### Project : Band Name Generator.
+#### ` Project ` : Band Name Generator.
 
 ## Day 2
 
