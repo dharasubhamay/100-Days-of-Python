@@ -40,3 +40,8 @@
 #### Revision of Functions, loops, control flow, list, string.
 #### Project : ` Caesar Cipher `.
 
+## Day 9
+
+#### Nested Lists and Dictionaries.
+#### Project : ` Secret Auction Program `.
+
