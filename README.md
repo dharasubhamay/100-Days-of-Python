@@ -45,3 +45,8 @@
 #### Nested Lists and Dictionaries.
 #### Project : ` Secret Auction Program `.
 
+## Day 10
+
+#### Functions with Outputs, Docstrings.
+#### Project : ` Calculator `.
+
