@@ -50,7 +50,7 @@
 #### Functions with Outputs, Docstrings.
 #### Project : ` Calculator `.
 
-## Day 10
+## Day 11
 
 #### Project : ` Blackjack Capstone `.
 
