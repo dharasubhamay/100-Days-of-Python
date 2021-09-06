@@ -54,7 +54,7 @@
 
 #### Project : ` Blackjack Capstone `.
 
-## Day 11
+## Day 12
 
 #### More about Variables, Scope Game.
 #### Project : ` Guess the Number `.
