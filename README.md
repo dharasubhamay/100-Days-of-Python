@@ -56,6 +56,6 @@
 
 ## Day 11
 
-#### More about Variables.
+#### More about Variables, Scope Game.
 #### Project : ` Guess the Number `.
 
