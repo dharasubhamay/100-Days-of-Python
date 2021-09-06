@@ -54,3 +54,8 @@
 
 #### Project : ` Blackjack Capstone `.
 
+## Day 11
+
+#### More about Variables.
+#### Project : ` Guess the Number `.
+
