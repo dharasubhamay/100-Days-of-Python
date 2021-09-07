@@ -59,3 +59,7 @@
 #### More about Variables, Scope Game.
 #### Project : ` Guess the Number `.
 
+## Day 13
+
+#### Debugging.
+
